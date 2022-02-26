@@ -107,7 +107,6 @@
 				FDC7358364DA80C04A773B6F /* Pods-flixTests.debug.xcconfig */,
 				AC8A3BB31C8F0C9DE82C0F3F /* Pods-flixTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -605,6 +604,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6Z4CQ328B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flix/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -633,6 +633,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6Z4CQ328B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flix/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
